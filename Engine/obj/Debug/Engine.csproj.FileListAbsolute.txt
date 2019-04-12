@@ -1,0 +1,6 @@
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Engine\bin\Debug\Engine.dll
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Engine\bin\Debug\Engine.pdb
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Engine\obj\Debug\Engine.dll
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Engine\obj\Debug\Engine.pdb

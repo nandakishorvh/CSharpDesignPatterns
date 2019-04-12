@@ -1,0 +1,13 @@
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\bin\Debug\Workbench.exe.config
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\bin\Debug\Workbench.exe
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\bin\Debug\Workbench.pdb
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\bin\Debug\Engine.dll
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\bin\Debug\Engine.pdb
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\obj\Debug\Workbench.csprojAssemblyReference.cache
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\obj\Debug\Workbench.Form1.resources
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\obj\Debug\Workbench.Properties.Resources.resources
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\obj\Debug\Workbench.csproj.GenerateResource.cache
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\obj\Debug\Workbench.csproj.CoreCompileInputs.cache
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\obj\Debug\Workbench.csproj.CopyComplete
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\obj\Debug\Workbench.exe
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\Workbench\obj\Debug\Workbench.pdb

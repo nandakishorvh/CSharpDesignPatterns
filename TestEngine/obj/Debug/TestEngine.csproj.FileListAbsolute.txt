@@ -1,0 +1,9 @@
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\bin\Debug\TestEngine.dll
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\bin\Debug\TestEngine.pdb
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\bin\Debug\Engine.dll
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\bin\Debug\Engine.pdb
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\obj\Debug\TestEngine.csprojAssemblyReference.cache
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\obj\Debug\TestEngine.csproj.CoreCompileInputs.cache
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\obj\Debug\TestEngine.csproj.CopyComplete
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\obj\Debug\TestEngine.dll
+C:\Work\CSharpDesignPatterns-master\CSharpDesignPatterns-master\TestEngine\obj\Debug\TestEngine.pdb
